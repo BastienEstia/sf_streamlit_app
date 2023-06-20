@@ -1,7 +1,7 @@
 import streamlit
 import pandas 
 import requests
-# import snowflake-connector-python
+import snowflake-connector-python
 
 streamlit.title("My new streamlit app for data")
 
